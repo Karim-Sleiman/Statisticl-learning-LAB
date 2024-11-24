@@ -9,7 +9,7 @@ This is the lab work that was done during my MAIA master in the statistical lear
 ### 📉 Linear regression & KNN:
 Interestingly the linear regression model with fature engineering of polynomial feature enahncement outperfromed the knn which was tending to overfit the small dataset.
 
-## 🔍 Challenge 2 :Russian stock mrket classification: (add, remove or hold)
+## 🔍 Challenge 2 :Russian stock market classification: (add, remove or hold)
 This project focuses on data preprocessing, feature selection, and model training using various machine learning techniques to predict outcomes from a dataset with missing values.
 
 ## ⚙️ Key Techniques Used
