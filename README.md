@@ -1,5 +1,8 @@
 # 📊 Statistical Learning and Data Mining Project
 
+## Overview:
+This is the lab work that was done during my MAIA master in the statistical learning course.
+
 ## 🔍 Challenge 1 : Regression problem on a small feature map.
 
 ## ⚙️ Key Techniques Used
